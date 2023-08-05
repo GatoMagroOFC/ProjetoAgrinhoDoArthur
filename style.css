@@ -1,0 +1,23 @@
+body
+{
+ background-color: rgb(248, 225, 196);
+}
+ div 
+ {
+   text-align: center;
+   font: italic
+ }
+  
+ p
+ {
+  font-size: x-large;
+ }
+ 
+ i
+ {
+  font-size: larger;
+ }
+ h3
+  {
+    text-align: center;
+  }
